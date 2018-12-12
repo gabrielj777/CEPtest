@@ -19,7 +19,7 @@
                 }
 
                 var form = document.getElementById("formCEP");
-                form.action = "buscaCEP.php";
+                form.action = "src/buscaCEP.php";
                 form.submit();
                 
 
